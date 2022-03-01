@@ -1,0 +1,22 @@
+Detecting gestures ...
+UP
+UP
+RIGHT
+RIGHT
+RIGHT
+RIGHT
+DOWN
+RIGHT
+DOWN
+DOWN
+DOWN
+UP
+DOWN
+UP
+DOWN
+UP
+RIGHT
+RIGHT
+LEFT
+Detecting gestures ...
+UP
